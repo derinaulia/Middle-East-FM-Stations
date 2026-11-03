@@ -1,0 +1,8 @@
+#EXTINF:-1 group-title="Abu Dhabi Media Network", Abu Dhabi FM
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index_adfm_audio_enc_ara.m3u8
+#EXTINF:-1 group-title="Abu Dhabi Media Network", Emarat FM
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index_emaratfm_audio_enc_ara.m3u8
+#EXTINF:-1 group-title="Abu Dhabi Media Network", Star FM
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/star_fm/star_fm_hls_nd/index_starfm_audio_enc_ara.m3u8
+#EXTINF:-1 group-title="Abu Dhabi Media Network", Quran Kareem
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/quran/quran_hls_nd/index_quranfm_audio_enc_ara.m3u8
